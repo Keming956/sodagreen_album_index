@@ -1,0 +1,742 @@
+{
+    "苏打绿同名专辑": {
+        "Release_year": "9/3/2005",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "后悔莫及",
+                "Duration": "3:40",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "飞鱼",
+                "Duration": "4:37",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "oh oh oh oh......",
+                "Duration": "4:13",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 4,
+                "Title": "That Moment Is Over",
+                "Duration": "4:43",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 5,
+                "Title": "是我的海",
+                "Duration": "5:52",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 6,
+                "Title": "漂浮",
+                "Duration": "6:01",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 7,
+                "Title": "频率",
+                "Duration": "5:47",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 8,
+                "Title": "你喔！",
+                "Duration": "4:14",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 9,
+                "Title": "降落练习存在孪生基因",
+                "Duration": "4:44",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 10,
+                "Title": "相对论IV",
+                "Duration": "4:44",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 11,
+                "Title": "窥",
+                "Duration": "5:04",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    },
+    "小宇宙": {
+        "Release_year": "10/20/2006",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "You Are, You Will",
+                "Duration": "4:38",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "小宇宙",
+                "Duration": "4:25",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "小情歌",
+                "Duration": "4:34",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 4,
+                "Title": "符号",
+                "Duration": "4:37",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 5,
+                "Title": "暂时失控（词曲：史俊威）",
+                "Duration": "3:24",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 6,
+                "Title": "被雨困住的城市",
+                "Duration": "4:19",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 7,
+                "Title": "已经",
+                "Duration": "1:53",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 8,
+                "Title": "吵",
+                "Duration": "5:03",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 9,
+                "Title": "背着你",
+                "Duration": "4:26",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 10,
+                "Title": "坠落",
+                "Duration": "4:31",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 11,
+                "Title": "无言歌",
+                "Duration": "4:45",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    },
+    "无与伦比的美丽": {
+        "Release_year": "11/2/2007",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "游乐",
+                "Duration": "3:14",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "花茶",
+                "Duration": "5:30",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "四季狂想",
+                "Duration": "4:10",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 4,
+                "Title": "左边",
+                "Duration": "4:18",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 5,
+                "Title": "无与伦比的美丽",
+                "Duration": "5:07",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 6,
+                "Title": "白日出没的月球",
+                "Duration": "5:56",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 7,
+                "Title": "这天",
+                "Duration": "5:04",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 8,
+                "Title": "简单生活",
+                "Duration": "4:57",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 9,
+                "Title": "城市",
+                "Duration": "5:11",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 10,
+                "Title": "相信",
+                "Duration": "7:07",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    },
+    "春・日光": {
+        "Release_year": "5/8/2009",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "融雪之前",
+                "Duration": "4:15",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "牧神搭上春色的火车，而",
+                "Duration": "1:20",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "日光",
+                "Duration": "3:02",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 4,
+                "Title": "在我们之间",
+                "Duration": "3:20",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 5,
+                "Title": "配乐",
+                "Duration": "1:03",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 6,
+                "Title": "各站停靠",
+                "Duration": "4:05",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 7,
+                "Title": "一千座喷泉",
+                "Duration": "2:34",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 8,
+                "Title": "交响梦",
+                "Duration": "4:44",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 9,
+                "Title": "异次元的玫瑰",
+                "Duration": "3:12",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 10,
+                "Title": "配乐",
+                "Duration": "0:19",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 11,
+                "Title": "嬉戏之后",
+                "Duration": "3:16",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 12,
+                "Title": "早点回家",
+                "Duration": "3:52",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    },
+    "夏／狂热": {
+        "Release_year": "9/11/2009",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "掌声落下",
+                "Duration": "2:50",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "他夏了夏天",
+                "Duration": "5:05",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "口白 - 英文诗 1",
+                "Duration": "0:18",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 4,
+                "Title": "蝉想",
+                "Duration": "4:44",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 5,
+                "Title": "包围",
+                "Duration": "4:26",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 6,
+                "Title": "御花园",
+                "Duration": "2:54",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 7,
+                "Title": "口白 - 英文诗 2",
+                "Duration": "0:14",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 8,
+                "Title": "彼得与狼",
+                "Duration": "3:42",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 9,
+                "Title": "共舞",
+                "Duration": "3:31",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 10,
+                "Title": "无眠",
+                "Duration": "3:46",
+                "Lyricist": "吴青峰",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 11,
+                "Title": "口白 - 英文诗 3",
+                "Duration": "0:14",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 12,
+                "Title": "狂热",
+                "Duration": "3:26",
+                "Lyricist": "吴青峰",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 13,
+                "Title": "煽动",
+                "Duration": "4:29",
+                "Lyricist": "吴青峰",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 14,
+                "Title": "近未来",
+                "Duration": "6:30",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    },
+    "你在烦恼什么": {
+        "Release_year": "11/11/2011",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "片刻永恒",
+                "Duration": "1:33",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "幸福额度",
+                "Duration": "4:58",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "你被写在我的歌里",
+                "Duration": "4:35",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 4,
+                "Title": "如果凝结就是爱",
+                "Duration": "5:10",
+                "Lyricist": "龚钰祺",
+                "Composer": "龚钰祺"
+            },
+            {
+                "#": 5,
+                "Title": "喜欢寂寞",
+                "Duration": "4:24",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 6,
+                "Title": "燕窝",
+                "Duration": "5:01",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 7,
+                "Title": "茧",
+                "Duration": "4:00",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 8,
+                "Title": "当我们一起走过",
+                "Duration": "4:44",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 9,
+                "Title": "浪漫派",
+                "Duration": "3:26",
+                "Lyricist": "吴青峰",
+                "Composer": "刘家凯"
+            },
+            {
+                "#": 10,
+                "Title": "控制狂",
+                "Duration": "4:12",
+                "Lyricist": "吴青峰",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 11,
+                "Title": "你在烦恼什么",
+                "Duration": "4:34",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    },
+    "秋：故事": {
+        "Release_year": "9/18/2013",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "故事",
+                "Duration": "4:39",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "从一片落叶开始",
+                "Duration": "3:34",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "一",
+                "Duration": "0:23",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 4,
+                "Title": "独处的时候",
+                "Duration": "4:34",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 5,
+                "Title": "我好想你",
+                "Duration": "5:26",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 6,
+                "Title": "一一",
+                "Duration": "0:18",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 7,
+                "Title": "偷闲的翅膀",
+                "Duration": "4:29",
+                "Lyricist": "吴青峰",
+                "Composer": "谢馨仪"
+            },
+            {
+                "#": 8,
+                "Title": "天天晴朗",
+                "Duration": "4:17",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 9,
+                "Title": "一一一",
+                "Duration": "0:24",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 10,
+                "Title": "说了再见以后",
+                "Duration": "4:30",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 11,
+                "Title": "我们走了一光年",
+                "Duration": "3:34",
+                "Lyricist": "吴青峰",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 12,
+                "Title": "再遇见",
+                "Duration": "4:35",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 13,
+                "Title": "一一一一",
+                "Duration": "0:20",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 14,
+                "Title": "拾穗",
+                "Duration": "3:44",
+                "Lyricist": "吴青峰",
+                "Composer": "龚钰祺"
+            },
+            {
+                "#": 15,
+                "Title": "你心里最后一个",
+                "Duration": "4:20",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 16,
+                "Title": "小星星",
+                "Duration": "6:06",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    },
+    "冬 未了": {
+        "Release_year": "11/4/2015",
+        "Tracks": [
+            {
+                "#": 1,
+                "Title": "痛快的哀艳",
+                "Duration": "6:00",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 2,
+                "Title": "对杀人狂指控",
+                "Duration": "3:54",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 3,
+                "Title": "地平线",
+                "Duration": "4:16",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 4,
+                "Title": NaN,
+                "Duration": "0:05",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 5,
+                "Title": "我们不懂",
+                "Duration": "5:26",
+                "Lyricist": "龚钰祺",
+                "Composer": "龚钰祺"
+            },
+            {
+                "#": 6,
+                "Title": "博物馆",
+                "Duration": "4:33",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 7,
+                "Title": "回切尔诺贝利的梦",
+                "Duration": "3:35",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 8,
+                "Title": NaN,
+                "Duration": "0:06",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 9,
+                "Title": "下雨的夜晚",
+                "Duration": "4:30",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 10,
+                "Title": "他举起右手点名",
+                "Duration": "3:42",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 11,
+                "Title": "Everyone",
+                "Duration": "4:20",
+                "Lyricist": "史俊威",
+                "Composer": "史俊威"
+            },
+            {
+                "#": 12,
+                "Title": NaN,
+                "Duration": "0:04",
+                "Lyricist": NaN,
+                "Composer": NaN
+            },
+            {
+                "#": 13,
+                "Title": "墙外的风景",
+                "Duration": "4:46",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 14,
+                "Title": "未了",
+                "Duration": "5:06",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            },
+            {
+                "#": 15,
+                "Title": "Must Keep Singing",
+                "Duration": "6:44",
+                "Lyricist": "吴青峰",
+                "Composer": "吴青峰"
+            }
+        ]
+    }
+}
