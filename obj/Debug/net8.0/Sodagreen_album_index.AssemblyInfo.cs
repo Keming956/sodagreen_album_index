@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sodagreen_album_index")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ae3668357a4af175788fdda6a7e7d90071f87a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0824c5c47cc52cee28ee1557d7da584ec5d12f78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sodagreen_album_index")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sodagreen_album_index")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

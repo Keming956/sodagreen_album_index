@@ -1,9 +1,8 @@
 ﻿namespace SodagreenSongs;
 
-
 public class Program
 {
-    public void Run()
+    public static void Main(string[] args)
     {
         var manager = new SongManager();
         Console.WriteLine("Welcome to SodaGreen Song Index.");
@@ -19,11 +18,6 @@ public class Program
                 Console.WriteLine(ex.Message);
             }
         }
-    }
-
-    public static void Main(string[] args)
-    {
-        new Program().Run();
     }
 }
 
