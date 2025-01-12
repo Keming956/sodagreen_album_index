@@ -79,23 +79,39 @@ public class SearchCommand : Command
             ));
             return;
         }
+        
+        List<Song> results = new List<Song>();
 
-        List<Song> results = criteria switch
+        switch (criteria)
         {
-            SearchCriteria.Title => manager.Songs
-                .Where(s => s.Title.Contains(value, StringComparison.OrdinalIgnoreCase))
-                .ToList(),
-            SearchCriteria.Album => manager.Songs
-                .Where(s => s.Album_title.Contains(value, StringComparison.OrdinalIgnoreCase))
-                .ToList(),
-            SearchCriteria.Lyricist => manager.Songs
-                .Where(s => s.Lyricist.Contains(value, StringComparison.OrdinalIgnoreCase))
-                .ToList(),
-            SearchCriteria.Composer => manager.Songs
-                .Where(s => s.Composer.Contains(value, StringComparison.OrdinalIgnoreCase))
-                .ToList(),
-            _ => new List<Song>()
-        };
+            case SearchCriteria.Title:
+                results = manager.Songs
+                    .Where(s => s.Title.Contains(value, StringComparison.OrdinalIgnoreCase))
+                    .ToList();
+                break;
+
+            case SearchCriteria.Album:
+                results = manager.Songs
+                    .Where(s => s.Album_title.Contains(value, StringComparison.OrdinalIgnoreCase))
+                    .ToList();
+                break;
+
+            case SearchCriteria.Lyricist:
+                results = manager.Songs
+                    .Where(s => s.Lyricist.Contains(value, StringComparison.OrdinalIgnoreCase))
+                    .ToList();
+                break;
+
+            case SearchCriteria.Composer:
+                results = manager.Songs
+                    .Where(s => s.Composer.Contains(value, StringComparison.OrdinalIgnoreCase))
+                    .ToList();
+                break;
+
+            default:
+                results = new List<Song>();
+                break;
+        }
 
         if (!results.Any())
         {
